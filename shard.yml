@@ -1,0 +1,13 @@
+name: static_bin
+version: 0.1.0
+
+authors:
+  - José Fco. Rives <jose@digio.es>
+
+targets:
+  static_bin:
+    main: src/static_bin.cr
+
+crystal: 0.26.0
+
+license: MIT
